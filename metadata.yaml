@@ -1,0 +1,44 @@
+_repo: A-Feast-of-Demons_32010
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: &id001 1933
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+  - agent_name: Dillon, Leo
+    birthdate: *id001
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+covers:
+- cover_type: archival
+  image_path: 32010-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Samachson, Joseph
+    aliases:
+    - Samachson, Joe
+    - Morrison, William
+    - Sterling, Brett
+    birthdate: 1906
+    deathdate: 1980
+    gutenberg_agent_id: '33434'
+    url: http://www.gutenberg.org/2009/agents/33434
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
+description: ''
+gutenberg_issued: '2010-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: A Feast of Demons
+url: http://www.gutenberg.org/ebooks/32010
