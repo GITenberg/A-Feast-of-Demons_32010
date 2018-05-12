@@ -4,11 +4,11 @@ contributor:
   illustrators:
   - agent_name: Dillon, Diane
     alias: Dillon, Diane Claire Sorber
-    birthdate: &id001 1933
+    birthdate: 1933
     gutenberg_agent_id: '32729'
     url: http://www.gutenberg.org/2009/agents/32729
   - agent_name: Dillon, Leo
-    birthdate: *id001
+    birthdate: 1933
     deathdate: 2012
     gutenberg_agent_id: '32728'
     url: http://www.gutenberg.org/2009/agents/32728
@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33434
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32010#A-Feast-of-Demons
 gutenberg_issued: '2010-04-16'
 gutenberg_type: Text
 identifiers:
